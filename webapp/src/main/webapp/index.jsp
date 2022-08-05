@@ -31,7 +31,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
-
+   <h1>Glad to see you in Mikilus community</h1>
+   <h2>It's simple form what you need to fill, or your need go back in you normal live.</h2>
   
 </form>
+<h3> developed by mikilus, he knows wat are doing, because he crazy</h3>
