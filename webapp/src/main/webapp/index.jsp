@@ -6,11 +6,12 @@
     <hr>
      
     <label for="Name your mom"><b>Enter Name your mom</b></label>
-    <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
+    <input type="text" placeholder="Enter Full Name your mom ok?" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <label for="mobile"><b>Enter mobile phone your mom </b></label>
+    <input type="text" placeholder="Enter your mom phone number" name="mobile" id="mobile" required>
+    <h4> if you're lucky it'll be just phone sex</h4>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
