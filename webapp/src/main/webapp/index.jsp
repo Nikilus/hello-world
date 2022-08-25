@@ -5,7 +5,7 @@
     <h3> if you can go fuck yourself. with love from developers</h3>
     <hr>
      
-    <label for="Name your mom"><b>Enter Name</b></label>
+    <label for="Name your mom"><b>Enter Name your mom</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
